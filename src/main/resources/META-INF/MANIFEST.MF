@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: com.prueba.tecnica.Main
+Class-Path: listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.j
+ ar failureaccess-1.0.2.jar checker-qual-3.42.0.jar j2objc-annotations-3
+ .0.0.jar gson-2.11.0.jar error_prone_annotations-2.27.0.jar jsr305-3.0.
+ 2.jar guava-33.2.1-jre.jar commons-lang3-3.14.0.jar
+

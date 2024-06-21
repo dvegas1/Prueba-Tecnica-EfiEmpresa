@@ -1,0 +1,60 @@
+
+g
+java:S2629_"$Invoke method(s) only conditionally.(‚¹Üø8òªÛƒ2J$c50563d2-bc2f-4151-a7ed-80ceb4db4b14
+l
+java:S2629`"$Invoke method(s) only conditionally.(Â¡ÙÓÿÿÿÿÿ8óªÛƒ2J$a72e8727-fa80-4b22-a188-0f61c4406555
+f
+java:S2629b"$Invoke method(s) only conditionally.(ñóÓw8óªÛƒ2J$52e9a27f-0d69-4d31-9523-e2892baed73c
+g
+java:S2629c"$Invoke method(s) only conditionally.(›“»‡8óªÛƒ2J$b6453f08-6b8a-4486-8273-ac9a981d8599
+l
+java:S2629e"$Invoke method(s) only conditionally.(Û°“¤üÿÿÿÿ8óªÛƒ2J$9045dfd1-cb14-4f3f-a1a5-d2f3f48e6bc3
+g
+java:S2629f"$Invoke method(s) only conditionally.(Š¿Â“8óªÛƒ2J$fb3097e3-6120-46c1-bd82-183ec7313fef
+l
+java:S2629l"$Invoke method(s) only conditionally.(ĞÚù‹ÿÿÿÿÿ8óªÛƒ2J$dd82ba3e-9231-43ee-a2f4-f0b2aa9c1485
+g
+java:S2629n"$Invoke method(s) only conditionally.(³³¾ó8óªÛƒ2J$9c7889b4-2e1a-452f-9c18-5c9c51ba19b7
+¦
+java:S1450"^Remove the "palabrasRevista" field and declare it as a local variable in the relevant methods.(×¶åüÿÿÿÿ8ÀŸªÛƒ2J$7ed638d9-d7c7-4538-b224-170ce01d512c
+r	java:S1066"+Replace this use of System.out by a logger.(ùÊÄÇıÿÿÿÿ8ÈŸªÛƒ2J$669ef803-a621-4e8d-b8c6-d70331cfb5fb
+r	java:S106:"+Replace this use of System.out by a logger.(×™î²ÿÿÿÿÿ8ÉŸªÛƒ2J$4896b787-0b23-48d3-9f00-ca0f42593f81
+m	java:S106<"+Replace this use of System.out by a logger.(²âì’8ÉŸªÛƒ2J$9c9d3fc3-fe7f-42d9-aa13-b62e84352d8f
+™
+java:S3457`"Q%n should be used in place of \n to produce the platform-specific line separator.(Â¡ÙÓÿÿÿÿÿ8ÌŸªÛƒ2J$bfb4042a-6238-49d4-853b-3930394b3983
+”
+java:S3457c"Q%n should be used in place of \n to produce the platform-specific line separator.(›“»‡8ÌŸªÛƒ2J$7aac94e1-eed2-4158-ad5a-29b91933c1cb
+”
+java:S3457f"Q%n should be used in place of \n to produce the platform-specific line separator.(Š¿Â“8ÌŸªÛƒ2J$c3133a02-c8ce-4163-bbe0-6c9478c3a619
+™
+java:S3457l"Q%n should be used in place of \n to produce the platform-specific line separator.(ĞÚù‹ÿÿÿÿÿ8ÍŸªÛƒ2J$ff1a51e0-cd10-49a7-96ae-02794461aadf
+”
+java:S3457n"Q%n should be used in place of \n to produce the platform-specific line separator.(³³¾ó8ÍŸªÛƒ2J$d66f25a4-4c8e-4016-aed5-59c56fadcd43
+‘
+java:S5361“"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Ô¤Ëúøÿÿÿÿ8ÑŸªÛƒ2J$c6506809-2627-4ce3-9d9c-65d388737388
+‘
+java:S5361“"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Ô¤Ëúøÿÿÿÿ8ÑŸªÛƒ2J$008ef852-e406-4c9b-9892-eaf2a0611dac
+‘
+java:S5361“"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Ô¤Ëúøÿÿÿÿ8ÒŸªÛƒ2J$214fc81e-d555-4ca8-908a-fb4289e5e856
+‘
+java:S5361“"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Ô¤Ëúøÿÿÿÿ8ÒŸªÛƒ2J$52a9bacc-b457-49c2-8384-78fefcebbdf6
+‘
+java:S5361“"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Ô¤Ëúøÿÿÿÿ8ÒŸªÛƒ2J$bb4c8067-5d55-471c-8f85-ca9117ee5685
+‘
+java:S5361“"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Ô¤Ëúøÿÿÿÿ8ÓŸªÛƒ2J$df4cd4ed-f5cf-4a25-998f-b0d389722b9f
+‘
+java:S5361“"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Ô¤Ëúøÿÿÿÿ8ÓŸªÛƒ2J$e97cd5ab-a747-455c-81ad-3375f762b0bf
+‘
+java:S5361“"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Ô¤Ëúøÿÿÿÿ8ÓŸªÛƒ2J$a5e5eb70-7ec1-4cb8-ae2f-b4b88cbbae90
+‘
+java:S5361“"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Ô¤Ëúøÿÿÿÿ8ÓŸªÛƒ2J$0c32fef2-f638-4e7f-a330-693332df1947
+n
+java:S6326“"%Replace spaces with quantifier `{2}`.(Ô¤Ëúøÿÿÿÿ8ÔŸªÛƒ2J$c49a35a3-d665-459a-8082-9ea8efad96db
+‘
+java:S5361“"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Ô¤Ëúøÿÿÿÿ8ÔŸªÛƒ2J$15e72207-fe4e-47bc-a8d1-eff06fabfea3
+‘
+java:S5361“"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Ô¤Ëúøÿÿÿÿ8ÔŸªÛƒ2J$fbfcd8db-5642-4a77-8d58-18b68881628e
+‘
+java:S5361“"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Ô¤Ëúøÿÿÿÿ8ÔŸªÛƒ2J$49a819ad-a079-41bc-8a9f-1fb925ab6847
+{
+java:S1068"3Remove this unused "palabrasRevista" private field.(×¶åüÿÿÿÿ8ÖŸªÛƒ2J$5bf89ea0-156e-4142-8cdf-6bd310f9bd09

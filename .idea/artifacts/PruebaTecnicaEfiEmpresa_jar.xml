@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact name="PruebaTecnicaEfiEmpresa:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PruebaTecnicaEfiEmpresa_jar</output-path>
+    <root id="root">
+      <element id="archive" name="PruebaTecnicaEfiEmpresa.jar">
+        <element id="module-output" name="PruebaTecnicaEfiEmpresa" />
+      </element>
+      <element id="library" level="project" name="Maven: com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava" />
+      <element id="library" level="project" name="Maven: com.google.guava:failureaccess:1.0.2" />
+      <element id="library" level="project" name="Maven: org.checkerframework:checker-qual:3.42.0" />
+      <element id="library" level="project" name="Maven: com.google.j2objc:j2objc-annotations:3.0.0" />
+      <element id="library" level="project" name="Maven: com.google.code.gson:gson:2.11.0" />
+      <element id="library" level="project" name="Maven: com.google.errorprone:error_prone_annotations:2.27.0" />
+      <element id="library" level="project" name="Maven: com.google.code.findbugs:jsr305:3.0.2" />
+      <element id="library" level="project" name="Maven: com.google.guava:guava:33.2.1-jre" />
+      <element id="library" level="project" name="Maven: org.apache.commons:commons-lang3:3.14.0" />
+    </root>
+  </artifact>
+</component>

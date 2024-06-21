@@ -1,0 +1,11 @@
+
+r
+java:S1066L"/Merge this if statement with the enclosing one.(Ù™ÙÎ8ÓÈïİƒ2J$2acb96d1-599d-4db1-a12d-acc20d79b73e
+¨
+java:S1319H"eThe type of "lista" should be an interface such as "List" rather than the implementation "ArrayList".(ˆÎ™á8ŒåÌİƒ2J$65ec35f5-f1d2-491f-acc7-fd237ca1afb1
+g
+java:S2629D"$Invoke method(s) only conditionally.(µ«½8ŒåÌİƒ2J$2076e19a-df17-4f69-bd65-7a630ca1d5fe
+|
+java:S3416":Update this logger to use "NotifiacionStatudiantes.class".(åñˆs8’åÌİƒ2J$3fce4cbe-b977-4e32-bf8c-b0d0396dac59
+¥
+java:S1157K"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(Õ¬ïC8˜åÌİƒ2J$ea76cfcc-73da-4654-9454-db0f0cf54e5e

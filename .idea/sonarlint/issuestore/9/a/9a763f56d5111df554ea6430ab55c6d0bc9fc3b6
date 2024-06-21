@@ -1,0 +1,12 @@
+
+‡
+java:S13199"eThe type of "lista" should be an interface such as "List" rather than the implementation "ArrayList".(÷¾Ëšıÿÿÿÿ8Ï§ö×ƒ2
+`
+java:S1854:"CRemove this useless assignment to local variable "correosEnviados".(ÈËèË8Ø§ö×ƒ2
+Q
+java:S1481:"4Remove this unused "correosEnviados" local variable.(ÈËèË8Ø§ö×ƒ2
+N
+java:S1602;",Remove useless curly braces around statement(Ö†€£ûÿÿÿÿ8Ù§ö×ƒ2
+I
+java:S1602<",Remove useless curly braces around statement(ÄåÔ³8Ú§ö×ƒ2
+G	java:S106="+Replace this use of System.out by a logger.(˜“¼›8Ú§ö×ƒ2
