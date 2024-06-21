@@ -17,7 +17,7 @@
     * #### Test Fallido
       <img src="src/main/resources/img/informe no acertado.png" alt="img">
 
-* ### **RETO 2, EL INSTITUTO DESEA NOTIFICAR POR VIA EMAIL A LOS ESTUDIANTES DEL LA SEDE MÁLAGA, SOBRE UNA INCIDENCIA QUE AFECTAN LAS CLASES DEL DIA SIGUEINTE:**.
+* ### **RETO 2, EL INSTITUTO DESEA NOTIFICAR POR VIA EMAIL A LOS ESTUDIANTES DE LA SEDE MÁLAGA, SOBRE UNA INCIDENCIA QUE AFECTAN LAS CLASES DEL DIA SIGUEINTE:**.
   * #### Se crearon 3 listas y a cada lista se le asignaron 3 estudiantes
   * #### Se creo una función que recorre la lista y filtra por los estudiantes que se encuentran en la sede de MÁLAGA
   * #### Test de notificación
